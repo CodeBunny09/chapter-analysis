@@ -30,7 +30,7 @@
 
 ## Flowchart:
 
-![Basic Flowchart.png](https://unsplash.com/photos/YEXAXkV2lcY)
+![Basic Flowchart.png](https://source.unsplash.com/YEXAXkV2lcY/600x300)
 
 
 PS: I tried it with a song the first time I ran it! 😅😅
