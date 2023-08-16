@@ -28,9 +28,5 @@
 7. Plots it using matplotlib
 8. Saves the figure as a .png file
 
-## Flowchart:
-
-![Basic Flowchart.png](https://source.unsplash.com/YEXAXkV2lcY/600x300)
-
 
 PS: I tried it with a song the first time I ran it! 😅😅
